@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #636766;
+    background: #FF5733;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,7 +25,7 @@ body {
     margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 0 35px 55px rgb(0, 0, 0, 0.1);
+    box-shadow: 0 25px 66px rgb(0, 0, 0, 0.1);
 }
 
 .container .left_side {
